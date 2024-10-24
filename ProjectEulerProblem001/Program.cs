@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+# Name:Omar Alkhawaga
+# email:alkhawoe@mail.uc.edu
+# Assignment Title: Assignment InClass
+# Due Date:10/24/2024
+# Course: IS 3050
+# Semester/Year:Spring 2024
+# Brief Description: This project ...
+# Citations:
+# Anything else that's relevant:
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
